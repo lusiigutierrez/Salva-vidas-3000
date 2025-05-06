@@ -20,13 +20,17 @@
 ## 💻 Requisitos
 
 Instala las dependencias necesarias ejecutando:
+
 pip install pandas openpyxl
+
 No necesitas instalar tkinter si usas Python en Windows. En Linux/Mac puede requerir instalación manual.
 
 ## ▶️ Cómo usar
 Ejecuta el script:
 - python3 SalvaVidas3000.py
-Aparecerá una ventana donde podrás seleccionar el archivo .xlsx.
+  
+Aparecerá una ventana donde podrás seleccionar el archivo `.xlsx`.
+
 La herramienta extraerá la información, la procesará y te pedirá guardar el archivo .csv en algún lugar. 
 
 ## 🧪 Ejemplo de uso
